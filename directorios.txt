@@ -1,0 +1,18 @@
+total 28
+-rw-rw-rw-  1 codespace root        22 Apr 22 00:46 README.md
+drwxrwxrwx+ 2 codespace codespace 4096 Apr 22 01:11 assets
+drwxrwxrwx+ 2 codespace codespace 4096 Apr 22 01:11 bin
+-rw-rw-rw-  1 codespace codespace    0 Apr 22 01:25 directorios.txt
+drwxrwxrwx+ 2 codespace codespace 4096 Apr 22 01:12 docs
+-rw-rw-rw-  1 codespace codespace   29 Apr 22 01:24 fecha.txt
+drwxrwxrwx+ 2 codespace codespace 4096 Apr 22 01:08 include
+drwxrwxrwx+ 2 codespace codespace 4096 Apr 22 01:14 src
+total 32
+-rw-rw-rw-  1 codespace root        22 Apr 22 00:46 README.md
+drwxrwxrwx+ 2 codespace codespace 4096 Apr 22 01:11 assets
+drwxrwxrwx+ 2 codespace codespace 4096 Apr 22 01:11 bin
+-rw-rw-rw-  1 codespace codespace  489 Apr 22 01:25 directorios.txt
+drwxrwxrwx+ 2 codespace codespace 4096 Apr 22 01:12 docs
+-rw-rw-rw-  1 codespace codespace   29 Apr 22 01:24 fecha.txt
+drwxrwxrwx+ 2 codespace codespace 4096 Apr 22 01:08 include
+drwxrwxrwx+ 2 codespace codespace 4096 Apr 22 01:14 src
